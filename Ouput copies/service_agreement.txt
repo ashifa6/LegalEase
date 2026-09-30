@@ -1,0 +1,196 @@
+⚖️ LegalEase
+
+SERVICE AGREEMENT
+=================
+
+This Service Agreement (hereinafter referred to as the "Agreement") is made and entered into as of 1 October 2026 (hereinafter referred to as the "Effective Date"),
+
+BETWEEN:
+
+BrightWave Technologies Pvt. Ltd., having its principal place of business at [CLIENT ADDRESS] in Chennai, Tamil Nadu, India (hereinafter referred to as the "Client"),
+
+AND:
+
+Arjun Mehta, an independent software developer and consultant, residing at [SERVICE PROVIDER ADDRESS] in Bengaluru, Karnataka, India (hereinafter referred to as the "Service Provider").
+
+WITNESSETH:
+
+WHEREAS, the Client desires to engage the Service Provider to design, develop, test, deploy, and provide initial maintenance support for a custom business management web application known as the BrightWave Business Management Platform; and
+
+WHEREAS, the Service Provider is willing to perform such services for the Client on the terms and conditions set forth in this Agreement;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the parties agree as follows:
+
+1. SCOPE OF SERVICES
+--------------------
+
+(a) The Service Provider agrees to design, develop, test, deploy, and provide initial maintenance support for a custom business management web application for the Client, specifically the BrightWave Business Management Platform.
+
+(b) The Service Provider will develop a responsive web-based business management application containing user authentication, an administrative dashboard, customer management, employee management, document management, reporting functionality, search functionality, and basic notification features.
+
+(c) The Service Provider will be responsible for frontend development, backend development, database integration, API integration, testing, bug fixing, deployment assistance, and basic technical documentation. Expected deliverables include a responsive web application, frontend interface, backend API, database integration, authentication system, administrative dashboard, customer management module, employee management module, document management module, reporting functionality, search functionality, basic notification functionality, technical documentation, and deployment assistance.
+
+(d) The Client will provide the Service Provider with all necessary business requirements, branding materials, logos, content, access credentials, and other information reasonably required to complete the project.
+
+2. PROJECT TIMELINE
+-------------------
+
+(a) The project will begin on 1 October 2026 and the initial production-ready version is expected to be delivered within 60 days.
+
+(b) The parties may mutually agree in writing to extend the delivery timeline if there are significant changes to the requirements, delays in receiving information from the Client, technical dependencies, or circumstances beyond the reasonable control of the Service Provider.
+
+3. PAYMENT TERMS
+----------------
+
+(a) The total project fee will be ₹2,40,000.
+
+(b) The Client will pay ₹60,000 as an advance payment before development begins.
+
+(c) A second payment of ₹60,000 will be made after completion of the initial development milestone.
+
+(d) A third payment of ₹60,000 will be made after completion of testing and user acceptance testing.
+
+(e) The remaining ₹60,000 will be paid upon final delivery and deployment.
+
+(f) Any additional functionality requested by the Client outside the agreed scope will be discussed separately and may require an additional fee.
+
+4. CHANGES TO REQUIREMENTS
+--------------------------
+
+(a) The Client may request reasonable changes during development. Changes that substantially increase the development effort, project duration, or technical requirements will be documented and approved by both parties before implementation.
+
+(b) The Service Provider will inform the Client of any significant additional cost or delay resulting from such changes.
+
+5. TESTING AND ACCEPTANCE
+-------------------------
+
+(a) The Service Provider will conduct reasonable functional testing before delivery.
+
+(b) After receiving the application, the Client will have 10 business days to identify material defects that prevent the application from operating substantially according to the agreed requirements.
+
+(c) The Service Provider will make reasonable efforts to correct confirmed defects reported during this acceptance period.
+
+6. MAINTENANCE AND SUPPORT
+--------------------------
+
+(a) The Service Provider will provide 30 days of basic post-delivery support at no additional charge.
+
+(b) This support will cover correction of defects directly related to the delivered functionality.
+
+(c) New features, major design changes, third-party service changes, infrastructure problems outside the Service Provider's control, and requests outside the original scope may be handled separately.
+
+7. CONFIDENTIALITY
+------------------
+
+(a) Both parties agree to keep confidential any non-public business, technical, financial, customer, security, or operational information received from the other party during the project.
+
+(b) Confidential information will not be disclosed to third parties except where disclosure is required by law or is reasonably necessary for performing the agreement.
+
+(c) The confidentiality obligations will continue after completion or termination of this agreement.
+
+8. INTELLECTUAL PROPERTY
+------------------------
+
+(a) Upon receipt of all amounts due under this agreement, the Client will receive ownership of the custom source code and project-specific materials created specifically for the Client under this agreement.
+
+(b) The Service Provider will retain ownership of pre-existing tools, reusable libraries, frameworks, development techniques, general-purpose code, templates, and know-how that were not created exclusively for the Client.
+
+(c) Third-party software and open-source components will remain subject to their respective licenses.
+
+9. DATA AND SECURITY
+--------------------
+
+(a) The Service Provider will use reasonable technical measures to protect project-related information handled during development.
+
+(b) The Client is responsible for ensuring that the business data supplied to the application is accurate and that appropriate user permissions are established.
+
+(c) Production credentials and sensitive access information should be shared through appropriate secure channels rather than ordinary public communication.
+
+10. THIRD-PARTY SERVICES
+------------------------
+
+(a) If the application requires third-party services such as cloud hosting, payment gateways, email providers, authentication providers, mapping services, or other external APIs, the Client will be responsible for applicable third-party subscription fees unless otherwise agreed in writing.
+
+(b) The Service Provider will not be responsible for outages or policy changes caused solely by third-party providers.
+
+11. WARRANTIES
+--------------
+
+(a) The Service Provider will perform the services with reasonable professional care and skill.
+
+(b) The Service Provider does not guarantee that the application will operate without interruption or that every future third-party software or platform change will remain compatible with the application.
+
+12. LIMITATION OF LIABILITY
+---------------------------
+
+(a) Each party will be responsible for losses caused by its own material breach of this agreement, subject to applicable law.
+
+(b) Neither party will be responsible for indirect or consequential losses to the extent permitted by applicable law.
+
+(c) Nothing in this agreement is intended to exclude liability that cannot legally be excluded or limited.
+
+13. TERMINATION
+---------------
+
+(a) Either party may terminate this agreement by providing 15 days written notice.
+
+(b) Either party may terminate the agreement immediately if the other party commits a material breach and fails to correct the breach within a reasonable period after receiving written notice.
+
+(c) If the agreement is terminated, the Client will pay for services and approved work completed up to the termination date.
+
+14. DISPUTE RESOLUTION
+----------------------
+
+(a) The parties will first attempt to resolve disputes through good-faith discussion.
+
+(b) If a dispute cannot be resolved through discussion, the parties may pursue appropriate legal remedies available under applicable law.
+
+15. GOVERNING LAW
+-----------------
+
+This agreement will be governed by the applicable laws of India.
+
+16. INDEPENDENT CONTRACTOR
+--------------------------
+
+The Service Provider is engaged as an independent contractor. Nothing in this agreement creates an employer-employee relationship, partnership, joint venture, or agency relationship between the parties.
+
+17. FORCE MAJEURE
+-----------------
+
+Neither party will be considered in breach for delays caused by circumstances reasonably beyond its control, including natural disasters, major infrastructure failures, government restrictions, widespread network failures, or other comparable events.
+
+18. NOTICES
+-----------
+
+Formal notices relating to this agreement should be provided through an agreed written communication method and should clearly identify the matter being communicated.
+
+19. ENTIRE AGREEMENT
+--------------------
+
+(a) This agreement represents the understanding between the parties concerning the services described above and supersedes prior discussions relating to the same subject matter.
+
+(b) Any material amendment should be made in writing and agreed upon by both parties.
+
+20. SIGNATURES
+--------------
+
+The parties intend to sign this agreement electronically or in physical form and acknowledge that their authorized representatives have reviewed the terms before signing.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+CLIENT:
+BrightWave Technologies Pvt. Ltd.
+
+By: 
+Name: [AUTHORIZED REPRESENTATIVE NAME]
+Title: [AUTHORIZED REPRESENTATIVE TITLE]
+Date: 
+
+SERVICE PROVIDER:
+Arjun Mehta
+
+Signature: 
+Name: Arjun Mehta
+Title: Independent Software Developer and Consultant
+Date:
